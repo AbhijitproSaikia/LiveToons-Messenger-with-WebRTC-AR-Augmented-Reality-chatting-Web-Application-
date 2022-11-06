@@ -2,8 +2,7 @@
 A next gen chatting application with webrtc, rs1 and AR
 use node.js/npm
 
-commands- npm i
-          npm start
+commands- npm i,npm start
          
         
         
