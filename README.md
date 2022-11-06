@@ -7,5 +7,5 @@ commands- npm i
          
         
         
-To login use uid: 1
+To login use uid_1= 1, uid-2=2, uid_3=3
       
